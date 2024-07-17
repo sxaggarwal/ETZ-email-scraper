@@ -1,0 +1,6 @@
+configs/
+./scraper.py
+output/
+src/doc
+src/readme.md
+pipfile.lock
